@@ -32,7 +32,7 @@ static string GetStadiumRecommendation(string enjoymentLevel)
         stadium="Jordan-Hare Stadium";
         break;
     case "fun":
-        stadium="Tiger Stadium ";
+        stadium="Tiger Stadium";
         break;
     case "epic":
         stadium="Saban Field at Bryant Denny Stadium";
