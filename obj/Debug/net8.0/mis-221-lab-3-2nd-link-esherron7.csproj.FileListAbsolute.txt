@@ -1,0 +1,15 @@
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\bin\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.exe
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\bin\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.deps.json
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\bin\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.runtimeconfig.json
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\bin\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.dll
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\bin\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.pdb
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.AssemblyInfoInputs.cache
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.AssemblyInfo.cs
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.csproj.CoreCompileInputs.cache
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.sourcelink.json
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.dll
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-esherron7.dll
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.pdb
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\mis-221-lab-3-2nd-link-esherron7.genruntimeconfig.cache
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-3-2nd-link-esherron7\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-esherron7.dll
